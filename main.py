@@ -1,6 +1,2 @@
-print("Hello world!")
+import requests
 
-print("TODO")
-print("TODO")
-print("TODO")
-print("TODO")
